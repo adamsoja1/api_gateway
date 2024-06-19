@@ -1,0 +1,16 @@
+uvicorn
+sqlmodel
+typer
+dynaconf
+jinja2
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
+python-dotenv
+pandas
+sqlalchemy
+fastapi==0.95.0
+fastapi_jwt_auth
+pydantic
+httpx
